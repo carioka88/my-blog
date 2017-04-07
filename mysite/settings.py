@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'blog',
-    'djangogirl88.pythonanywhere.com',
+    #'djangogirl88.pythonanywhere.com',
 ]
 
 MIDDLEWARE = [
